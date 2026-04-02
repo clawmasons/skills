@@ -1,5 +1,5 @@
 # skills
-Common skills for Claude Code.
+Various skills that we have found useful.
 
 ## Available Skills
 
